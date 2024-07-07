@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvtarsoul" alt="dvtarsoul" /></a> </p>
 
-- 🚀 I'm working (as owner) on [EvilAI](https://t.me/evilaifr)
+- 🚀 I'm working (as owner) on [DevilBin](https://lewdlx.site)
 
 - 🔎 I’m currently learning **ASM**
 
