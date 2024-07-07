@@ -58,7 +58,7 @@ Tools: Metasploit, Nmap, Wireshark, John the Ripper, Burp Suite, Hydra, Medusa, 
 ## 📂 Projects
 
 - **[5exp DDoS](https://github.com/dvtarsoul/5exp-DDoS)** - Automatic vuln scanner and exploiter for l7 ddos attacks
-- **[soon](https://github.com/dvtarsoul/soon)** - soon
+- **[Advanced Dstat](https://github.com/dvtarsoul/Advanced-Dstat)** - Advanced Dstat (non graph) showing requests count and IPv4 requesting the site.
 
 ## ⚠️ Disclaimer
 
