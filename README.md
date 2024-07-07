@@ -1,4 +1,3 @@
-Voici un exemple de README pour le profil GitHub d'un hackeur sombre dans un film :
 
 ```markdown
 # TarSoul
