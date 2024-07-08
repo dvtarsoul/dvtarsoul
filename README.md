@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=dvtarsoul&countColorcountColor&countColor=%23FFFFFF" alt="Profile Views">
+</p>
 
 ```markdown
 # TarSoul
