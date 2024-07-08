@@ -63,6 +63,7 @@ Tools: Metasploit, Nmap, Wireshark, John the Ripper, Burp Suite, Hydra, Medusa, 
 - **[5exp DDoS](https://github.com/dvtarsoul/5exp-DDoS)** - Automatic vuln scanner and exploiter for l7 ddos attacks
 - **[Advanced Dstat](https://github.com/dvtarsoul/Advanced-Dstat)** - Advanced Dstat (non graph) showing requests count and IPv4 requesting the site.
 - **[TXT SQLizer](https://github.com/dvtarsoul/TXT-SQLizer)** - Make database of each lines from multiples txt files (txt to sql)
+- **[SoulTaker (l7 method)](https://github.com/dvtarsoul/SoulTaker)** - New L7 method for flooding target with random user agents and headers through HTTP proxies (TLS method type)
 
 ## ⚠️ Disclaimer
 
