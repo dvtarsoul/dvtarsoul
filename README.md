@@ -64,6 +64,7 @@ Tools: Metasploit, Nmap, Wireshark, John the Ripper, Burp Suite, Hydra, Medusa, 
 - **[Advanced Dstat](https://github.com/dvtarsoul/Advanced-Dstat)** - Advanced Dstat (non graph) showing requests count and IPv4 requesting the site.
 - **[TXT SQLizer](https://github.com/dvtarsoul/TXT-SQLizer)** - Make database of each lines from multiples txt files (txt to sql)
 - **[SoulTaker](https://github.com/dvtarsoul/SoulTaker)** - New L7 method for flooding target with random user agents and headers through HTTP proxies (TLS method type)
+- **[RubySniff](https://github.com/dvtarsoul/RubySniff)** - RubySniff is an advanced network packet sniffer written in Ruby
 
 ## ⚠️ Disclaimer
 
