@@ -66,6 +66,7 @@ Tools: Metasploit, Nmap, Wireshark, John the Ripper, Burp Suite, Hydra, Medusa, 
 - **[SoulTaker](https://github.com/dvtarsoul/SoulTaker)** - New L7 method for flooding target with random user agents and headers through HTTP proxies (TLS method type)
 - **[RubySniff](https://github.com/dvtarsoul/RubySniff)** - RubySniff is an advanced network packet sniffer written in Ruby
 - **[ChExp](https://github.com/dvtarsoul/ChExp)** - Automatic vuln scanner and exploiter for l7 ddos attacks using Chamilio CVE-2023-34960
+- **[Mew DDoS Panel](https://github.com/dvtarsoul/Mew-DDoS-Panel)** - Simple DDoS (DoS) panel with low power for little sites.
 
 ## ⚠️ Disclaimer
 
